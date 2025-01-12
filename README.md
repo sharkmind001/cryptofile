@@ -1,4 +1,4 @@
-# cryptofile
+# Cryptofile
 
 This is simple file cryptography tool (encrypt and decrypt any type of file) based on python programming.
 
